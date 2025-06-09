@@ -1,0 +1,3 @@
+*.npy
+*.bvh
+Motion/__pycache__/
